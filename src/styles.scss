@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://imgs.search.brave.com/Y8TlVPxfZD4TsIfEOwDE27I-n8JaOBE67jrzvpUDDFE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtZ3JhdGlz/L3ZhY2EtcHJldGEt/ZS1icmFuY2EtY29t/LXNldS1maWxob3Rl/LXBhc3RhbmRvLWVt/LXVtLWNhbXBvLWRl/LWdyYW1hXzE4MTYy/NC01MDM3My5qcGc_/c2l6ZT02MjYmZXh0/PWpwZw");
+  background-size:cover;
+  background-repeat: no-repeat;
+  backdrop-filter: grayscale(100%);
+}
